@@ -1,0 +1,56 @@
+.App {
+  margin-top: 20px;
+}
+
+.master {
+  padding: 20px;
+  border: 1px solid;
+  border-color: #272727;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.content {
+  font-weight: 100;
+  margin-left: 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.color-green {
+  background-color: #4fca9f;
+}
+
+.color-yellow {
+  background-color: #FFFF00;
+}
+
+.detail {
+  padding: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.select {
+  width: 200px;
+  margin-left: 20px;
+}
+
+.container {
+  padding-top: 200px;
+}
+
+.action {
+  cursor: pointer;
+}
